@@ -1,0 +1,15 @@
+F:\c#\Memoria\Memoria\bin\Debug\Memoria.exe.config
+F:\c#\Memoria\Memoria\bin\Debug\Memoria.exe
+F:\c#\Memoria\Memoria\bin\Debug\Memoria.pdb
+F:\c#\Memoria\Memoria\obj\Debug\Memoria.csproj.AssemblyReference.cache
+F:\c#\Memoria\Memoria\obj\Debug\Memoria.csproj.SuggestedBindingRedirects.cache
+F:\c#\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+F:\c#\Memoria\Memoria\obj\Debug\Memoria.exe
+F:\c#\Memoria\Memoria\obj\Debug\Memoria.pdb
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\bin\Debug\Memoria.exe
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\bin\Debug\Memoria.pdb
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\obj\Debug\Memoria.csproj.AssemblyReference.cache
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\obj\Debug\Memoria.exe
+C:\Users\Magenta\Desktop\ESCRITORIO\MAGENTA\c#\Memoria\Memoria\obj\Debug\Memoria.pdb
